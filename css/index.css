@@ -1,0 +1,23 @@
+/* desktop */
+body {
+	font-family: 'Kaisei Decol', sans-serif;
+}
+
+.date {
+	font-family: 'Ultra', sans-serif;
+}
+
+.head {
+	background-color: #ffffff;
+	width: 100%;
+	height: 200px;
+}
+
+.links {
+	display: flex;
+}
+
+.links img {
+	width: 400px;
+	height: 400px;
+}
