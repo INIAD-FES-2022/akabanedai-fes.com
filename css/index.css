@@ -21,3 +21,13 @@ body {
 	width: 400px;
 	height: 400px;
 }
+
+/*Scrollテキストの描写*/
+.scrolldown span{
+    /*テキストの形状*/
+	color: #000000;
+	/*縦書き設定*/
+	-ms-writing-mode: tb-rl;
+    -webkit-writing-mode: vertical-rl;
+    writing-mode: vertical-rl;
+}
